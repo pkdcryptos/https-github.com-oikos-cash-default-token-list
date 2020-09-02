@@ -1,0 +1,47 @@
+{
+  "name": "Oikos Swap Tokens",
+  "timestamp": "2020-09-02T00:55:43.748Z",
+  "version": {
+    "major": 0,
+    "minor": 0,
+    "patch": 0
+  },
+  "tags": {},
+  "logoURI": "https://coin.top/production/upload/logo/TWVVcRqRmpyAi9dASvTXrqnS7FrwvDezMn.png",
+  "keywords": [
+    "oikos",
+    "default"
+  ],
+  "tokens": [
+    {
+      "name": "Oikos",
+      "symbol": "OKS",
+      "address": "0xe11cdc164a9d8c1ae19d95b0165278690d39d84b",
+      "decimals": 18,
+      "chainId": 11111
+    },
+    {
+      "name": "Wrapped TRX",
+      "address": "0x891cdb91d149f23b1a45d9c5ca78a88d0cb44c18",
+      "symbol": "WTRX",
+      "decimals": 6,
+      "chainId": 11111,
+      "logoURI": "https://coin.top/production/upload/logo/TNUC9Qb1rRpS5CbWLmNMxXBjyFoydXjWFR.png"
+    },
+    {
+      "name": "DemoToken",
+      "address": "0x42C142500ff7068f326c01A8F1B3cd8ea7D9377f",
+      "symbol": "DTKN",
+      "chainId": 201910292,
+      "decimals": 6
+    },
+    {
+      "name": "Wrapped Tron",
+      "address": "0x8f44113A985076431b77f6078f0929f949cB8836",
+      "symbol": "WTRX",
+      "decimals": 6,
+      "chainId": 201910292,
+      "logoURI": "https://coin.top/production/upload/logo/TNUC9Qb1rRpS5CbWLmNMxXBjyFoydXjWFR.png"
+    }
+  ]
+}
