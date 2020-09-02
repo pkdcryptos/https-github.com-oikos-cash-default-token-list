@@ -1,7 +1,7 @@
 [
   {
     "name": "Wrapped TRX",
-    "address": "0x891cdb91d149f23b1a45d9c5ca78a88d0cb44c18",
+    "address": "0x891cdb91d149f23B1a45D9c5Ca78a88d0cB44C18",
     "symbol": "WTRX",
     "decimals": 6,
     "chainId": 11111,
@@ -10,7 +10,7 @@
   {
     "name": "Oikos",
     "symbol": "OKS",
-    "address": "0xe11cdc164a9d8c1ae19d95b0165278690d39d84b",
+    "address": "0xE11cDc164a9D8C1aE19D95B0165278690D39d84B",
     "decimals": 18,
     "chainId": 11111
   }
