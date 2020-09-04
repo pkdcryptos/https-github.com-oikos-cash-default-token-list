@@ -1,10 +1,10 @@
 {
   "name": "Oikos Swap Tokens",
-  "timestamp": "2020-09-04T17:05:02.578Z",
+  "timestamp": "2020-09-04T17:08:47.712Z",
   "version": {
     "major": 0,
     "minor": 1,
-    "patch": 0
+    "patch": 1
   },
   "tags": {},
   "logoURI": "https://coin.top/production/upload/logo/TWVVcRqRmpyAi9dASvTXrqnS7FrwvDezMn.png",
@@ -16,42 +16,42 @@
     {
       "name": "Bankroll",
       "symbol": "BNKR",
-      "address": "0x8caeea9c7ebb8840ee4b49d10542b99cec6ffbc6",
+      "address": "0x8CaEea9c7EBb8840eE4B49d10542B99Cec6fFbc6",
       "decimals": 18,
       "chainId": 11111
     },
     {
       "name": "Centric Cash",
       "symbol": "CNS",
-      "address": "0x7c503a569a8e62210bdce6b3e733272e154d08ab",
+      "address": "0x7C503A569a8E62210bdCe6b3e733272e154d08ab",
       "decimals": 8,
       "chainId": 11111
     },
     {
       "name": "CoinstoEx Token",
       "symbol": "CSX",
-      "address": "0x629550b68f84db46b53ebe095c92e5815aaa6d24",
+      "address": "0x629550b68f84Db46B53ebE095C92E5815AAA6d24",
       "decimals": 6,
       "chainId": 11111
     },
     {
       "name": "Digital Daily Token",
       "symbol": "DCD",
-      "address": "0x8ce2b3fc3e8ad8fad36973a386547fb8a97326e0",
+      "address": "0x8cE2B3fc3e8AD8fad36973A386547Fb8A97326E0",
       "decimals": 6,
       "chainId": 11111
     },
     {
       "name": "Just Token",
       "symbol": "JST",
-      "address": "0x18fd0626daf3af02389aef3ed87db9c33f638ffa",
+      "address": "0x18FD0626DAF3Af02389AEf3ED87dB9C33F638ffa",
       "decimals": 18,
       "chainId": 11111
     },
     {
       "name": "Mima Token",
       "symbol": "MIMA",
-      "address": "0x400e3a5eaedd27b4d9193de2bf442e1d072d5a5c",
+      "address": "0x400E3A5eAedd27B4D9193de2Bf442E1D072D5A5c",
       "decimals": 6,
       "chainId": 11111
     },
@@ -65,35 +65,35 @@
     {
       "name": "Synth ETH",
       "symbol": "sETH",
-      "address": "0xa1402557c4c7a50f958e15c0527a60bf6666c77e",
+      "address": "0xA1402557c4C7a50f958e15c0527A60bF6666C77e",
       "decimals": 18,
       "chainId": 11111
     },
     {
       "name": "Synth TRX",
       "symbol": "sTRX",
-      "address": "0xa099cc498284ed6e25f3c99e6d55074e6ba42911",
+      "address": "0xA099cc498284ed6e25F3C99e6d55074e6ba42911",
       "decimals": 18,
       "chainId": 11111
     },
     {
       "name": "Synth USD",
       "symbol": "sUSD",
-      "address": "0xda2853b2bede0e3018f56d47624a413b2abe0831",
+      "address": "0xdA2853b2BEde0E3018f56d47624A413B2abe0831",
       "decimals": 18,
       "chainId": 11111
     },
     {
       "name": "Tewkenaire",
       "symbol": "TEWKEN",
-      "address": "0x130e4c9746e2f7b0a9d1f5eab71aa13896037ae8",
+      "address": "0x130E4C9746E2F7b0A9D1F5eAB71AA13896037Ae8",
       "decimals": 6,
       "chainId": 11111
     },
     {
       "name": "Just Stablecoin",
       "symbol": "USDJ",
-      "address": "0x834295921a488d9d42b4b3021ed1a3c39fb0f03e",
+      "address": "0x834295921A488D9d42b4b3021ED1a3C39fB0f03e",
       "decimals": 18,
       "chainId": 11111
     },
