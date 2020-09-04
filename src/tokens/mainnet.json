@@ -19,7 +19,7 @@
     "name": "Bankroll",
     "symbol": "BNKR",
     "address": "0x8caeea9c7ebb8840ee4b49d10542b99cec6ffbc6",
-    "decimals": 18,
+    "decimals": 6,
     "chainId": 11111,
     "logoURI": "https://coin.top/production/logo/TNo59Khpq46FGf4sD7XSWYFNfYfbc8CqNK.png"
   },
