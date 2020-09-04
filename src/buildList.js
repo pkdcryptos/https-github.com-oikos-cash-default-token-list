@@ -1,6 +1,7 @@
 const { version } = require("../package.json");
 const mainnet = require("./tokens/mainnet.json");
 const nile = require("./tokens/nile.json");
+const { toChecksumAddress } = require("ethereum-checksum-address");
 
 module.exports = function buildList() {
   const parsed = version.split(".");
@@ -23,6 +24,10 @@ module.exports = function buildList() {
           return t1.symbol.toLowerCase() < t2.symbol.toLowerCase() ? -1 : 1;
         }
         return t1.chainId < t2.chainId ? -1 : 1;
-      }),
+      })
+      .map((t) => ({
+        ...t,
+        address: toChecksumAddress(t.address),
+      })),
   };
 };
