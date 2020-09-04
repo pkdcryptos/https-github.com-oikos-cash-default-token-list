@@ -1,6 +1,6 @@
 {
   "name": "Oikos Swap Tokens",
-  "timestamp": "2020-09-04T17:18:39.308Z",
+  "timestamp": "2020-09-04T18:51:34.077Z",
   "version": {
     "major": 0,
     "minor": 1,
@@ -17,7 +17,7 @@
       "name": "Bankroll",
       "symbol": "BNKR",
       "address": "0x8CaEea9c7EBb8840eE4B49d10542B99Cec6fFbc6",
-      "decimals": 18,
+      "decimals": 6,
       "chainId": 11111,
       "logoURI": "https://coin.top/production/logo/TNo59Khpq46FGf4sD7XSWYFNfYfbc8CqNK.png"
     },
