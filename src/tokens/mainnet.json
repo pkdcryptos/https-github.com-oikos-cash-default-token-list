@@ -102,5 +102,13 @@
     "decimals": 18,
     "chainId": 11111,
     "logoURI": "https://oikos.exchange/images/synths/sETH-icon.svg"
+  },
+  {
+    "name": "Tether USD",
+    "symbol": "USDT",
+    "address": "0xa614f803b6fd780986a42c78ec9c7f77e6ded13c",
+    "decimals": 6,
+    "chainId": 11111,
+    "logoURI": "https://coin.top/production/logo/usdtlogo.png"
   }
 ]
