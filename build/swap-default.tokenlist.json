@@ -1,10 +1,10 @@
 {
   "name": "Oikos Swap Tokens",
-  "timestamp": "2020-09-04T18:51:57.895Z",
+  "timestamp": "2020-09-08T15:07:01.722Z",
   "version": {
     "major": 0,
     "minor": 1,
-    "patch": 3
+    "patch": 4
   },
   "tags": {},
   "logoURI": "https://coin.top/production/upload/logo/TWVVcRqRmpyAi9dASvTXrqnS7FrwvDezMn.png",
@@ -108,6 +108,14 @@
       "decimals": 18,
       "chainId": 11111,
       "logoURI": "https://coin.top/production/logo/usdj.png"
+    },
+    {
+      "name": "Tether USD",
+      "symbol": "USDT",
+      "address": "0xa614f803B6FD780986A42c78Ec9c7f77e6DeD13C",
+      "decimals": 6,
+      "chainId": 11111,
+      "logoURI": "https://coin.top/production/logo/usdtlogo.png"
     },
     {
       "name": "Wrapped TRX",
