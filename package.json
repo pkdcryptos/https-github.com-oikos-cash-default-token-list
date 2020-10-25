@@ -1,6 +1,6 @@
 {
   "name": "@oikos/default-token-list",
-  "version": "0.1.4",
+  "version": "1.0.0",
   "description": "◦ The Oikos Swap default token list",
   "main": "build/swap-default.tokenlist.json",
   "scripts": {
