@@ -1,6 +1,6 @@
 {
   "name": "Oikos Swap Tokens",
-  "timestamp": "2020-09-08T15:07:01.722Z",
+  "timestamp": "2020-10-25T16:15:01.658Z",
   "version": {
     "major": 0,
     "minor": 1,
@@ -28,14 +28,6 @@
       "decimals": 8,
       "chainId": 11111,
       "logoURI": "https://coin.top/production/upload/logo/TMJWuBDvwvcm6QUWXDaC6GqTyq3FgEmWEt.png"
-    },
-    {
-      "name": "CoinstoEx Token",
-      "symbol": "CSX",
-      "address": "0x629550b68f84Db46B53ebE095C92E5815AAA6d24",
-      "decimals": 6,
-      "chainId": 11111,
-      "logoURI": "https://coin.top/production/upload/logo/TJxU6TzuixbCagS3cXBpXHJGuqBY3awkJv.png?t=1594942934634"
     },
     {
       "name": "Digital Daily Token",
